@@ -23,9 +23,9 @@
       <input type="checkbox" v-model="terms" required />
       <label>Accept terms and conditions</label>
     </div>
-  </form>
 
-  <button class="submit">create an account</button>
+    <button class="submit">create an account</button>
+  </form>
 
   <p>Email: {{ email }}</p>
   <p>Password: {{ password }}</p>

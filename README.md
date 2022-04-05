@@ -9,6 +9,10 @@
 - adding and removing skills
 - this project only has the bare minimum regarding styling, focus is on understanding Vue
 
+![signup-1](./src/assets/screenshots/vue3-signup.png)
+![signup-2](./src/assets/screenshots/vue3-signup-error.png)
+![signup-3](./src/assets/screenshots/vue3-signup-console.png)
+
 ## Tech Stack
 - Vue 3
 - HTML, SCSS, JavaScript
